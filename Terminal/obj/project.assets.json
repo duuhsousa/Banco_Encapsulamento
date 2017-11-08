@@ -702,11 +702,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\31049529812\\Desktop\\Back_A\\Project_1\\Banco_Encapsulamento\\Terminal\\Terminal.csproj",
+      "projectUniqueName": "c:\\Users\\31049529812\\Desktop\\BACK_X\\Banco_Encapsulamento\\Terminal\\Terminal.csproj",
       "projectName": "Terminal",
-      "projectPath": "c:\\Users\\31049529812\\Desktop\\Back_A\\Project_1\\Banco_Encapsulamento\\Terminal\\Terminal.csproj",
+      "projectPath": "c:\\Users\\31049529812\\Desktop\\BACK_X\\Banco_Encapsulamento\\Terminal\\Terminal.csproj",
       "packagesPath": "C:\\Users\\31049529812\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\31049529812\\Desktop\\Back_A\\Project_1\\Banco_Encapsulamento\\Terminal\\obj\\",
+      "outputPath": "c:\\Users\\31049529812\\Desktop\\BACK_X\\Banco_Encapsulamento\\Terminal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -723,11 +723,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "c:\\Users\\31049529812\\Desktop\\Back_A\\Project_1\\Banco_Encapsulamento\\Dados\\Dados.csproj": {
-              "projectPath": "c:\\Users\\31049529812\\Desktop\\Back_A\\Project_1\\Banco_Encapsulamento\\Dados\\Dados.csproj"
+            "c:\\Users\\31049529812\\Desktop\\BACK_X\\Banco_Encapsulamento\\Dados\\Dados.csproj": {
+              "projectPath": "c:\\Users\\31049529812\\Desktop\\BACK_X\\Banco_Encapsulamento\\Dados\\Dados.csproj"
             },
-            "c:\\Users\\31049529812\\Desktop\\Back_A\\Project_1\\Banco_Encapsulamento\\Util\\Util.csproj": {
-              "projectPath": "c:\\Users\\31049529812\\Desktop\\Back_A\\Project_1\\Banco_Encapsulamento\\Util\\Util.csproj"
+            "c:\\Users\\31049529812\\Desktop\\BACK_X\\Banco_Encapsulamento\\Util\\Util.csproj": {
+              "projectPath": "c:\\Users\\31049529812\\Desktop\\BACK_X\\Banco_Encapsulamento\\Util\\Util.csproj"
             }
           }
         }

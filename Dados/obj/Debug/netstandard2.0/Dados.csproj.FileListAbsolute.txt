@@ -6,3 +6,11 @@ c:\Users\31049529812\Desktop\Back_A\Project_1\Banco_Encapsulamento\Dados\obj\Deb
 c:\Users\31049529812\Desktop\Back_A\Project_1\Banco_Encapsulamento\Dados\obj\Debug\netstandard2.0\Dados.AssemblyInfo.cs
 c:\Users\31049529812\Desktop\Back_A\Project_1\Banco_Encapsulamento\Dados\obj\Debug\netstandard2.0\Dados.dll
 c:\Users\31049529812\Desktop\Back_A\Project_1\Banco_Encapsulamento\Dados\obj\Debug\netstandard2.0\Dados.pdb
+c:\Users\31049529812\Desktop\BACK_X\Banco_Encapsulamento\Dados\bin\Debug\netstandard2.0\Dados.deps.json
+c:\Users\31049529812\Desktop\BACK_X\Banco_Encapsulamento\Dados\bin\Debug\netstandard2.0\Dados.dll
+c:\Users\31049529812\Desktop\BACK_X\Banco_Encapsulamento\Dados\bin\Debug\netstandard2.0\Dados.pdb
+c:\Users\31049529812\Desktop\BACK_X\Banco_Encapsulamento\Dados\obj\Debug\netstandard2.0\Dados.csproj.CoreCompileInputs.cache
+c:\Users\31049529812\Desktop\BACK_X\Banco_Encapsulamento\Dados\obj\Debug\netstandard2.0\Dados.AssemblyInfoInputs.cache
+c:\Users\31049529812\Desktop\BACK_X\Banco_Encapsulamento\Dados\obj\Debug\netstandard2.0\Dados.AssemblyInfo.cs
+c:\Users\31049529812\Desktop\BACK_X\Banco_Encapsulamento\Dados\obj\Debug\netstandard2.0\Dados.dll
+c:\Users\31049529812\Desktop\BACK_X\Banco_Encapsulamento\Dados\obj\Debug\netstandard2.0\Dados.pdb

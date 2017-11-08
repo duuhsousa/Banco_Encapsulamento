@@ -3,14 +3,16 @@ namespace dados{
         public string Banco { get; set; }
         public string Agencia { get; set; }
         public string ContaCorrente { get; set; }
-        public double Saldo { get; set; }
+        public double Saldo { get; protected set; }
 
-        public void Sacar(double valor){
+        public virtual double Sacar(double valor){
             this.Saldo -= valor;
+            return this.Saldo;
         }
         
-        public void Depositar(double valor){
+        public virtual double Depositar(double valor){
             this.Saldo += valor;
+            return this.Saldo;
         }
         
         public double MeuSaldo(){
