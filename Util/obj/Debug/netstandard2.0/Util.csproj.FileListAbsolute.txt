@@ -14,3 +14,11 @@ c:\Users\31049529812\Desktop\BACK_X\Banco_Encapsulamento\Util\obj\Debug\netstand
 c:\Users\31049529812\Desktop\BACK_X\Banco_Encapsulamento\Util\obj\Debug\netstandard2.0\Util.AssemblyInfo.cs
 c:\Users\31049529812\Desktop\BACK_X\Banco_Encapsulamento\Util\obj\Debug\netstandard2.0\Util.dll
 c:\Users\31049529812\Desktop\BACK_X\Banco_Encapsulamento\Util\obj\Debug\netstandard2.0\Util.pdb
+c:\Users\31049529812\Desktop\Novembro\Banco_Encapsulamento\Util\bin\Debug\netstandard2.0\Util.deps.json
+c:\Users\31049529812\Desktop\Novembro\Banco_Encapsulamento\Util\bin\Debug\netstandard2.0\Util.dll
+c:\Users\31049529812\Desktop\Novembro\Banco_Encapsulamento\Util\bin\Debug\netstandard2.0\Util.pdb
+c:\Users\31049529812\Desktop\Novembro\Banco_Encapsulamento\Util\obj\Debug\netstandard2.0\Util.csproj.CoreCompileInputs.cache
+c:\Users\31049529812\Desktop\Novembro\Banco_Encapsulamento\Util\obj\Debug\netstandard2.0\Util.AssemblyInfoInputs.cache
+c:\Users\31049529812\Desktop\Novembro\Banco_Encapsulamento\Util\obj\Debug\netstandard2.0\Util.AssemblyInfo.cs
+c:\Users\31049529812\Desktop\Novembro\Banco_Encapsulamento\Util\obj\Debug\netstandard2.0\Util.dll
+c:\Users\31049529812\Desktop\Novembro\Banco_Encapsulamento\Util\obj\Debug\netstandard2.0\Util.pdb

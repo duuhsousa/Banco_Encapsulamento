@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\31049529812\\Desktop\\BACK_X\\Banco_Encapsulamento\\Util\\Util.csproj",
+      "projectUniqueName": "c:\\Users\\31049529812\\Desktop\\Novembro\\Banco_Encapsulamento\\Util\\Util.csproj",
       "projectName": "Util",
-      "projectPath": "c:\\Users\\31049529812\\Desktop\\BACK_X\\Banco_Encapsulamento\\Util\\Util.csproj",
+      "projectPath": "c:\\Users\\31049529812\\Desktop\\Novembro\\Banco_Encapsulamento\\Util\\Util.csproj",
       "packagesPath": "C:\\Users\\31049529812\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\31049529812\\Desktop\\BACK_X\\Banco_Encapsulamento\\Util\\obj\\",
+      "outputPath": "c:\\Users\\31049529812\\Desktop\\Novembro\\Banco_Encapsulamento\\Util\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
